@@ -1,0 +1,235 @@
+[
+  {
+    "id" : 0 ,
+    "title" : "HOME",
+    "url" : "/",
+    "megaMenu" : false
+  },
+
+  {
+    "id" : 1 ,
+    "title" : "BLOG",
+    "url" : "/blog",
+    "megaMenu" : false
+  },
+
+  {
+    "id" : 2 ,
+    "title" : "SHOP",
+    "url" : "/shop",
+    "megaMenu" : [
+      {
+        "heading" : "SHOP LAYOUT",
+        "nav" : [
+          {"id" : 0, "title" : "Sticky Gallery No Sidebar","url" : "/" },
+          {"id" : 1, "title" : "Product List","url" : "/" },
+          {"id" : 2, "title" : "Product List","url" : "/" },
+          {"id" : 3, "title" : "Product List","url" : "/" },
+          {"id" : 4, "title" : "Product List","url" : "/" },
+          {"id" : 5, "title" : "Sticky Gallery No Sidebar","url" : "/" },
+          {"id" : 6, "title" : "Product List","url" : "/" },
+          {"id" : 7, "title" : "Product List","url" : "/" },
+          {"id" : 8, "title" : "Product List","url" : "/" }
+        ]
+      },
+
+      {
+        "heading" : "SHOP LAYOUT",
+        "nav" : [
+          {"id" : 0, "title" : "Product List","url" : "/" },
+          {"id" : 1, "title" : "Product List","url" : "/" },
+          {"id" : 2, "title" : "Product List","url" : "/" },
+          {"id" : 3, "title" : "Product List","url" : "/" },
+          {"id" : 4, "title" : "Sticky Gallery No Sidebar","url" : "/" },
+          {"id" : 5, "title" : "Product List","url" : "/" ,"sale" : true},
+          {"id" : 6, "title" : "Product List","url" : "/" },
+          {"id" : 7, "title" : "Product List","url" : "/" },
+          {"id" : 8, "title" : "Sticky Gallery No Sidebar","url" : "/" }
+        ]
+      },
+
+      {
+        "heading" : "PRODUCT FEATURES",
+        "nav" : [
+          {"id" : 0, "title" : "Product List","url" : "/" },
+          {"id" : 1, "title" : "Product List","url" : "/" },
+          {"id" : 2, "title" : "Product List","url" : "/", "hot_sale" : true },
+          {"id" : 3, "title" : "Product List","url" : "/" },
+          {"id" : 4, "title" : "Sticky Gallery No Sidebar","url" : "/" },
+          {"id" : 5, "title" : "Product List","url" : "/" ,"sale" : true},
+          {"id" : 6, "title" : "Product List","url" : "/" },
+          {"id" : 7, "title" : "Product List","url" : "/" },
+          {"id" : 8, "title" : "Sticky Gallery No Sidebar","url" : "/" }
+        ]
+      },
+      {
+        "heading" : "WOOCOMMERCE",
+        "nav" : [
+          {"id" : 0, "title" : "Product List","url" : "/" },
+          {"id" : 1, "title" : "Product List","url" : "/" },
+          {"id" : 2, "title" : "Product List","url" : "/", "hot_sale" : true },
+          {"id" : 3, "title" : "Product List","url" : "/" },
+          {"id" : 4, "title" : "Sticky Gallery No Sidebar","url" : "/" },
+          {"id" : 5, "title" : "Product List","url" : "/" ,"sale" : true},
+          {"id" : 6, "title" : "Product List","url" : "/" },
+          {"id" : 7, "title" : "Product List","url" : "/" },
+          {"id" : 8, "title" : "Sticky Gallery No Sidebar","url" : "/" }
+        ]
+      },
+
+      {
+        "heading" : "SHOP PAGES",
+        "nav" : [
+          {"id" : 0, "title" : "Product List","url" : "/" },
+          {"id" : 1, "title" : "Product List","url" : "/" },
+          {"id" : 2, "title" : "Product List","url" : "/", "hot_sale" : true },
+          {"id" : 3, "title" : "Product List","url" : "/" },
+          {"id" : 4, "title" : "Sticky Gallery No Sidebar","url" : "/" },
+          {"id" : 5, "title" : "Product List","url" : "/" ,"sale" : true}
+        ]
+      }
+
+    ]
+  },
+
+  {
+    "id" : 3 ,
+    "title" : "PAGES",
+    "url" : "/pages",
+    "megaMenu" : [
+      {
+        "heading" : "BASIC PAGES",
+        "nav" : [
+          {"id" : 0, "title" : "Sticky Gallery No Sidebar","url" : "/" },
+          {"id" : 1, "title" : "Product List","url" : "/" },
+          {"id" : 2, "title" : "Product List","url" : "/" },
+          {"id" : 3, "title" : "Product List","url" : "/" },
+          {"id" : 4, "title" : "Product List","url" : "/" },
+          {"id" : 5, "title" : "Sticky Gallery No Sidebar","url" : "/" },
+          {"id" : 6, "title" : "Product List","url" : "/" },
+          {"id" : 7, "title" : "Product List","url" : "/" },
+          {"id" : 8, "title" : "Product List","url" : "/" }
+        ]
+      },
+
+      {
+        "heading" : "INFORMATION PAGES",
+        "nav" : [
+          {"id" : 0, "title" : "Product List","url" : "/" },
+          {"id" : 1, "title" : "Product List","url" : "/" },
+          {"id" : 2, "title" : "Product List","url" : "/" },
+          {"id" : 3, "title" : "Product List","url" : "/" },
+          {"id" : 4, "title" : "Sticky Gallery No Sidebar","url" : "/" },
+          {"id" : 5, "title" : "Product List","url" : "/" ,"sale" : true},
+          {"id" : 6, "title" : "Product List","url" : "/" },
+          {"id" : 7, "title" : "Product List","url" : "/" },
+          {"id" : 8, "title" : "Sticky Gallery No Sidebar","url" : "/" }
+        ]
+      },
+
+      {
+        "heading" : "ADDITIONAL PAGE",
+        "nav" : [
+          {"id" : 0, "title" : "Product List","url" : "/" },
+          {"id" : 1, "title" : "Product List","url" : "/" },
+          {"id" : 2, "title" : "Product List","url" : "/", "hot_sale" : true },
+          {"id" : 3, "title" : "Product List","url" : "/" },
+          {"id" : 4, "title" : "Sticky Gallery No Sidebar","url" : "/" },
+          {"id" : 5, "title" : "Product List","url" : "/" ,"sale" : true},
+          {"id" : 6, "title" : "Product List","url" : "/" },
+          {"id" : 7, "title" : "Product List","url" : "/" },
+          {"id" : 8, "title" : "Sticky Gallery No Sidebar","url" : "/" }
+        ]
+      },
+      {
+        "heading" : "PORTFOLIO",
+        "nav" : [
+          {"id" : 0, "title" : "Product List","url" : "/" },
+          {"id" : 1, "title" : "Product List","url" : "/" },
+          {"id" : 2, "title" : "Product List","url" : "/", "hot_sale" : true },
+          {"id" : 3, "title" : "Product List","url" : "/" },
+          {"id" : 4, "title" : "Sticky Gallery No Sidebar","url" : "/" },
+          {"id" : 5, "title" : "Product List","url" : "/" ,"sale" : true},
+          {"id" : 6, "title" : "Product List","url" : "/" },
+          {"id" : 7, "title" : "Product List","url" : "/" },
+          {"id" : 8, "title" : "Sticky Gallery No Sidebar","url" : "/" }
+        ]
+      }
+
+    ]
+  },
+
+  {
+    "id" : 4 ,
+    "title" : "ELEMENTS",
+    "url" : "/elements",
+    "megaMenu" : [
+      {
+        "heading" : "CIYA ELEMENTS 01",
+        "nav" : [
+          {"id" : 0, "title" : "Sticky Gallery No Sidebar","url" : "/" },
+          {"id" : 1, "title" : "Product List","url" : "/" },
+          {"id" : 2, "title" : "Product List","url" : "/" },
+          {"id" : 3, "title" : "Product List","url" : "/" },
+          {"id" : 4, "title" : "Product List","url" : "/" },
+          {"id" : 5, "title" : "Sticky Gallery No Sidebar","url" : "/" },
+          {"id" : 6, "title" : "Product List","url" : "/" },
+          {"id" : 7, "title" : "Product List","url" : "/" },
+          {"id" : 8, "title" : "Product List","url" : "/" }
+        ]
+      },
+
+      {
+        "heading" : "CIYA ELEMENTS 02",
+        "nav" : [
+          {"id" : 0, "title" : "Product List","url" : "/" },
+          {"id" : 1, "title" : "Product List","url" : "/" },
+          {"id" : 2, "title" : "Product List","url" : "/" },
+          {"id" : 3, "title" : "Product List","url" : "/" },
+          {"id" : 4, "title" : "Sticky Gallery No Sidebar","url" : "/" },
+          {"id" : 5, "title" : "Product List","url" : "/" ,"sale" : true},
+          {"id" : 6, "title" : "Product List","url" : "/" },
+          {"id" : 7, "title" : "Product List","url" : "/" },
+          {"id" : 8, "title" : "Sticky Gallery No Sidebar","url" : "/" }
+        ]
+      },
+
+      {
+        "heading" : "CIYA ELEMENTS 03",
+        "nav" : [
+          {"id" : 0, "title" : "Product List","url" : "/" },
+          {"id" : 1, "title" : "Product List","url" : "/" },
+          {"id" : 2, "title" : "Product List","url" : "/", "hot_sale" : true },
+          {"id" : 3, "title" : "Product List","url" : "/" },
+          {"id" : 4, "title" : "Sticky Gallery No Sidebar","url" : "/" },
+          {"id" : 5, "title" : "Product List","url" : "/" ,"sale" : true},
+          {"id" : 6, "title" : "Product List","url" : "/" },
+          {"id" : 7, "title" : "Product List","url" : "/" },
+          {"id" : 8, "title" : "Sticky Gallery No Sidebar","url" : "/" }
+        ]
+      },
+      {
+        "heading" : "CIYA ELEMENTS 04",
+        "nav" : [
+          {"id" : 0, "title" : "Product List","url" : "/" },
+          {"id" : 1, "title" : "Product List","url" : "/" },
+          {"id" : 2, "title" : "Product List","url" : "/", "hot_sale" : true },
+          {"id" : 3, "title" : "Product List","url" : "/" },
+          {"id" : 4, "title" : "Sticky Gallery No Sidebar","url" : "/" },
+          {"id" : 5, "title" : "Product List","url" : "/" ,"sale" : true},
+          {"id" : 6, "title" : "Product List","url" : "/" },
+          {"id" : 7, "title" : "Product List","url" : "/" },
+          {"id" : 8, "title" : "Sticky Gallery No Sidebar","url" : "/" }
+        ]
+      }
+
+    ]
+  },
+
+  {
+    "id" : 5,
+    "title" : "CONTACT US",
+    "url" : "/contact",
+    "megaMenu" : false
+  }
+]

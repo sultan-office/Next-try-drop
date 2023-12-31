@@ -1,0 +1,104 @@
+[
+    {
+        "id": 0,
+        "title": "Home",
+        "icon": "fa-solid fa-shirt",
+        "submenu": [
+            {
+                "id": 0,
+                "title": "Home One",
+                "url": "/"
+            },
+            {
+                "id": 1,
+                "title": "Home Two",
+                "url": "/home-two"
+            },
+            {
+                "id": 2,
+                "title": "Home Three",
+                "url": "/home-three"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Blog",
+        "icon": "fa-solid fa-blog",
+        "submenu": [
+            {
+                "id": 0,
+                "title": "blog 2",
+                "url": "/"
+            },
+            {
+                "id": 1,
+                "title": "blog 1",
+                "url": "/home-two"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Shop",
+        "icon": "fa-solid fa-quote-left",
+        "submenu": [
+            {
+                "id": 0,
+                "title": "Fantasy 1",
+                "url": "/",
+                "submenu": [
+                    {
+                        "id": 0,
+                        "title": "Fantasy 2",
+                        "url": "/"
+                    },
+                    {
+                        "id": 0,
+                        "title": "Fantasy 3",
+                        "url": "/"
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "title": "Fantasy 4",
+                "url": "/"
+            },
+            {
+                "id": 2,
+                "title": "Fantasy 5",
+                "url": "/"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Elements",
+        "icon": "fa-solid fa-motorcycle",
+        "submenu": [
+            {
+                "id": 0,
+                "title": "Elements 1",
+                "url": "/"
+            },
+            {
+                "id": 1,
+                "title": "Elements 2",
+                "url": "/home-two"
+            },
+            {
+                "id": 2,
+                "title": "Elements 3",
+                "url": "/home-three"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Contact",
+        "icon": "fa-solid fa-phone",
+        "url" : "/contact"
+    }
+
+]
